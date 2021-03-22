@@ -1,0 +1,3 @@
+[submodule "exengine_py"]
+	path = exengine_py
+	url = git@github.com:edyatl/exengine_py.git
