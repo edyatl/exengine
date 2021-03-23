@@ -71,7 +71,7 @@ If the program receives a cancel order command, then the order with this id remo
 
     X,3
 
-*Order #3 removed from the stock.*
+*Order #3 removed from the exchange.*
 
 ## Purpose
 
